@@ -20,7 +20,7 @@ main()
             putchar('\\');
             putchar('\\');
         }else{
-            putchar(c);
+           putchar(c);
         }
     }
 }
