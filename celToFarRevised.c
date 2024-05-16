@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*Exercise 1.15, rewrite temperature conversion with fucntion notation*/
+/*Exercise 1.15, rewrite temperature conversion with function notation*/
 
 float celToFar(float celsius);
 
