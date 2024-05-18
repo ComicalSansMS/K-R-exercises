@@ -4,7 +4,7 @@
 int getline(char line[], int maxline);
 void copy(char to[], char from[]);
 
-/*Exercise 1.16, Revise the main routine so it willcorrectly print the length of arbrarily long input lines, and as much text as possible
+/*Exercise 1.16, Revise the main routine so it will correctly print the length of arbrarily long input lines, and as much text as possible
 1000 is the upper bound on the line length*/
 /*print longest input line*/
 main()
